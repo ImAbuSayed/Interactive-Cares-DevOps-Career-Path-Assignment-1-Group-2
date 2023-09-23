@@ -1,10 +1,18 @@
 # Interactive-Cares-DevOps-Career-Path-Assignment-1-Group-2
 <img src="https://repository-images.githubusercontent.com/695442365/81cb8a49-557e-4785-a66a-afba892496da" width="350" title="Interactive Cares DevOps Career Path Assignment 1 for Group 2 | Image Created by Abu Sayed">
 <h1>Interactive Cares DevOps Career Path Assignment 1 for Group 2</h1>
-<p></p>Group-2 members are Yasin Arafat Nowshad - ICDCP_24, Abu Sayed - ICDCP_28, Magferah Sultana Samia - ICDCP_14, Abidur Rahman Khan - ICDCP_59, F.M.Jahiduzzaman - ICDCP_86</p>
+
+  <p>Group 2 members are:</p>
+  <ul>
+    <li>Yasin Arafat Nowshad - ICDCP_24</li>
+    <li>Abu Sayed - ICDCP_28</li>
+    <li>Magferah Sultana Samia - ICDCP_14</li>
+    <li>Abidur Rahman Khan - ICDCP_59</li>
+    <li>F.M.Jahiduzzaman - ICDCP_86</li>
+  </ul>
 
 <h2>I'm Abu Sayed (Abu Sayed - ICDCP_28)</h2>
-<p>I have added everything as per instruction. Thank you</p>
+<p>I have added everything as per instruction.</p>
 <p>But as a <b>Git repo owner</b> I want to share what I was responsible for in our Git Repository Assignment.</p> 
 <h3>1. Git Repository Creation:</h3> 
 <p>My first task was to create the main Git repository for our group's project. I set up the repository on GitHub and provided a meaningful name and description for our project.</p> 
