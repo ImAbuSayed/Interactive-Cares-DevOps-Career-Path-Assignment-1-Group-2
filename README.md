@@ -13,7 +13,7 @@
 
 <h2>I'm Abu Sayed (Abu Sayed - ICDCP_28)</h2>
 <p>I have added everything as per instruction.</p>
-<p>But as a <b>Git repo owner</b> I want to share what I was responsible for in our Git Repository Assignment.</p> 
+<p>But as a <b>Git repo owner</b>, I want to share what I was responsible for in this Git Repository Assignment additionally.</p> 
 <h3>1. Git Repository Creation:</h3> 
 <p>My first task was to create the main Git repository for our group's project. I set up the repository on GitHub and provided a meaningful name and description for our project.</p> 
 <h3>2. Adding Group Members:</h3> 
