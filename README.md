@@ -1,6 +1,7 @@
 # Interactive-Cares-DevOps-Career-Path-Assignment-1-Group-2
+<img src="https://repository-images.githubusercontent.com/695442365/81cb8a49-557e-4785-a66a-afba892496da" width="350" title="Interactive Cares DevOps Career Path Assignment 1 for Group 2 | Image Created by Abu Sayed">
 <h1>Interactive Cares DevOps Career Path Assignment 1 for Group 2</h1>
-<p></p>Group 2 mambers are Yasin Arafat Nowshad - ICDCP_24, Abu Sayed - ICDCP_28, Magferah Sultana Samia - ICDCP_14, Abidur Rahman Khan - ICDCP_59, F.M.Jahiduzzaman - ICDCP_86</p>
+<p></p>Group-2 members are Yasin Arafat Nowshad - ICDCP_24, Abu Sayed - ICDCP_28, Magferah Sultana Samia - ICDCP_14, Abidur Rahman Khan - ICDCP_59, F.M.Jahiduzzaman - ICDCP_86</p>
 
 <h2>I'm Abu Sayed (Abu Sayed - ICDCP_28)</h2>
 <p>I have added everything as per instruction. Thank you</p>
